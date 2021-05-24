@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Neetalabba26
-- 👀 I’m interested in Data analytics...
-- 🌱 I’m currently learning Python and SQL..
-- 💞️ I’m looking to collaborate on data analyticsand data engineering related projects...
+
 
 
 <!---
